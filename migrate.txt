@@ -1,0 +1,13 @@
+./ghostwriter-cli-linux config set ADMIN_PASSWORD 6IlJkLMG2JvQk06AnHyzXgnbAg5pedSG
+./ghostwriter-cli-linux config set DJANGO_JWT_SECRET_KEY ',)_vvC^I?FPjqOCBKi>RL94BDrdUW&cT'
+./ghostwriter-cli-linux config set DJANGO_SECRET_KEY 'j@yx6CwBbrhs1zW)Vcnn2O(0FW4^OAoL'
+./ghostwriter-cli-linux config set DJANGO_SUPERUSER_PASSWORD 6IlJkLMG2JvQk06AnHyzXgnbAg5pedSG
+./ghostwriter-cli-linux config set HASURA_GRAPHQL_ACTION_SECRET NzAx0tQAbfvIiWo9V8o0Mk0uj54CiZMO
+./ghostwriter-cli-linux config set HASURA_GRAPHQL_ADMIN_SECRET NzAx0tQAbfvIiWo9V8o0Mk0uj54CiZMO
+./ghostwriter-cli-linux config set HASURA_GRAPHQL_DEV_MODE false
+./ghostwriter-cli-linux config set HASURA_PASSWORD NzAx0tQAbfvIiWo9V8o0Mk0uj54CiZMO
+./ghostwriter-cli-linux config set POSTGRES_DB ghostwriter
+./ghostwriter-cli-linux config set POSTGRES_HOST postgres
+./ghostwriter-cli-linux config set POSTGRES_PASSWORD MXVcMrlLFrLDHIIRaLke4BJA6GIxX2Kl
+./ghostwriter-cli-linux config set POSTGRES_PORT 5432
+./ghostwriter-cli-linux config set POSTGRES_USER postgres
